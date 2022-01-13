@@ -10,7 +10,7 @@ sap.ui.define([
         new ComponentContainer({
             name: "logaligroup.sapui5",
             settings: {
-                id: "SAPUI5"
+                id: "sapui"
             },
             async: true
         }).placeAt("content");
